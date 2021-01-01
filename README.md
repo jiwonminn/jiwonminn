@@ -11,6 +11,8 @@
 ## How I work
 My motivation comes from solving curiosity🤔. I'm trying to create a page that can maximize the user experience, and try various experimental developments. Sometimes I become lazy and don't practice my set goals💤, but I always try ✨not to forget✨ my original purpose with an obsession.
 
+> _Tomorrow hopes we have learned something from yesterday._
+
 ## Get in touch
 - [Facebook](https://facebook.com/jiwon.minn 'Facebook')
 - [Instagram](https://instagram.com/jiwon.minn 'Instagram')
