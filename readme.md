@@ -7,9 +7,9 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiwou&layout=compact&theme=dracula&hide_border=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Facebook](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/jiwon.fb)](https://facebook.com/jiwon.fb)
-[![Twitter](https://img.shields.io/badge/twitter-299feb?style=flat-square&logo=twitter&logoColor=white&link=https://www.twitter.com/jiwon_tw)](https://www.twitter.com/jiwon_tw)
-[![Instagram](https://img.shields.io/badge/instagram-e4405f?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/jiwon.ig)](https://www.instagram/jiwon.ig)
+[![Facebook](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://facebook.com/jiwon.fb)](https://facebook.com/jiwon.fb)
+[![Twitter](https://img.shields.io/badge/twitter-299feb?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/jiwon_tw)](https://twitter.com/jiwon_tw)
+[![Instagram](https://img.shields.io/badge/instagram-e4405f?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/jiwon.ig)](https://instagram.com/jiwon.ig)
 [![Gmail](https://img.shields.io/badge/gmail-ea4335?style=flat-square&logo=gmail&logoColor=white&link=mailto:jiwonov@gmail.com)](mailto:jiwonov@gmail.com)
 
 </div>
