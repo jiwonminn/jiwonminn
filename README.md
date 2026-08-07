@@ -2,7 +2,7 @@
 
 🎓 Software Engineering (Security) student at York University  
 💻 Interested in Software Engineering, AI, Full-Stack Development, and QA Automation  
-🚀 I enjoy building practical applications and exploring emerging technologies
+🧩 I enjoy building practical applications and exploring emerging technologies
 
 ## 👩‍💻 About Me
 
@@ -45,8 +45,6 @@ Gamified personal finance application for managing transactions, budgets, financ
 `Java` `SQL` `JavaFX` `Maven`
 
 ## 📫 Connect
-
-## 🤝 Let's Connect
 
 I'm always happy to connect with fellow developers, students, recruiters, and anyone interested in tech and AI. Feel free to reach out or connect with me!
 
