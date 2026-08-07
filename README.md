@@ -46,4 +46,8 @@ Gamified personal finance application for managing transactions, budgets, financ
 
 ## 📫 Connect
 
-[LinkedIn](www.linkedin.com/in/jiwonminn)
+## 🤝 Let's Connect
+
+I'm always happy to connect with fellow developers, students, recruiters, and anyone interested in tech and AI. Feel free to reach out or connect with me!
+
+[Let's connect on LinkedIn](www.linkedin.com/in/jiwonminn)
