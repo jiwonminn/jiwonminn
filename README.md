@@ -27,7 +27,7 @@ Chrome extension that checks claims in AI-generated and web content against thei
 **My role:** Solo project. Built the Chrome extension, the FastAPI backend and Google ADK agent pipeline, concurrent source fetching, an evaluation harness for trust scores, and the Docker/Cloud Run deployment.
 `Python` `FastAPI` `Gemini` `Google ADK` `Chrome Extension` `Docker` `Cloud Run`
 
-### [Fault-Tolerant Active BMS](https://github.com/NRhaman2000/eng-4k-project-ml) · ENG 4000 Capstone (in progress)
+### Fault-Tolerant Active BMS · ENG 4000 Capstone (in progress)
 Battery management system for a 4S lithium-ion pack, built by a six-person team.
 **My role:** Software engineer on the team. Built the telemetry pipeline and dashboard: serial telemetry parser, FastAPI backend with WebSocket streaming, SQLite logging and history API, React UI with live fault alerts, CSV export, and a firmware integration harness with tests.
 `Python` `FastAPI` `WebSockets` `SQLite` `React`
