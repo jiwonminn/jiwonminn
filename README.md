@@ -7,7 +7,7 @@ Software Engineering student (Security specialization) at York University, gradu
 
 ## Featured Projects
 
-### Foresight · IBM Z × UNSA Sheridan Hackathon 2026
+### [Foresight](https://devpost.com/software/stormos) · IBM Z × UNSA Sheridan Hackathon 2026
 Multi-agent emergency response platform that models wildfire-driven infrastructure cascade failures (power, traffic, evacuation routes) in real time and checks every AI recommendation against deterministic fire-spread physics before it reaches responders.
 **My role:** Built the React frontend, including the Leaflet map that renders the infrastructure cascade layers, and the OpenStreetMap data-fetch script behind it.
 `React` `Leaflet` `OpenStreetMap` · team stack: `Python` `FastAPI` `IBM Granite`
@@ -17,7 +17,7 @@ Offline-first pediatric danger-sign assistant for frontline health workers. A ca
 **My role:** Built the care handoff layer: the result screen, QR care passport with camera and PDF scanning, PIN-protected encounter records, a map of published Nyeri health facilities, and the caregiver SMS handoff, with tests.
 `TypeScript` `Next.js` `QR` `MapLibre` `Vitest`
 
-### [Rentin' ToRentino](https://github.com/arya-s101/RentinToRentino)
+### [Rentin' ToRentino](https://github.com/arya-s101/RentinToRentino) · [Devpost](https://devpost.com/software/rentmaster)
 Browser game that walks first-time Toronto renters through spotting scams, comparing costs, reading a lease, and knowing their responsibilities, using City of Toronto, CMHC, and Census data.
 **My role:** Built the AI integration and managed the external APIs: Gemini-generated character dialogue (with game code validating the output) and ElevenLabs voice for the host, with a browser-voice fallback. Also came up with the Dominic ToRento host concept.
 `TypeScript` `Next.js` `Gemini API` `ElevenLabs`
@@ -32,7 +32,7 @@ Battery management system for a 4S lithium-ion pack, built by a six-person team.
 **My role:** Software engineer on the team. Built the telemetry pipeline and dashboard: serial telemetry parser, FastAPI backend with WebSocket streaming, SQLite logging and history API, React UI with live fault alerts, CSV export, and a firmware integration harness with tests.
 `Python` `FastAPI` `WebSockets` `SQLite` `React`
 
-**Other work:** [Life Decision Simulator](https://github.com/jiwonminn/usaii) (multi-stage LLM reasoning pipeline, FastAPI) · [FindMyPain](https://github.com/Nityzt/findmypain) (voice AI symptom intake with 3D body model) · [Gamified Budget App](https://github.com/jiwonminn/EECS2311_FinancialBudgetGamified-App) (Java, JavaFX, PostgreSQL)
+**Other work:** [Life Decision Simulator](https://github.com/jiwonminn/usaii) ([Devpost](https://devpost.com/software/life-decision-simulator-46at2s)) (multi-stage LLM reasoning pipeline, FastAPI) · [FindMyPain](https://github.com/Nityzt/findmypain) ([Devpost](https://devpost.com/software/findmypain)) (voice AI symptom intake with 3D body model) · [UnBurnt](https://devpost.com/software/unburnt-8klzyg) (AI cooking assistant, team lead) · [Gamified Budget App](https://github.com/jiwonminn/EECS2311_FinancialBudgetGamified-App) (Java, JavaFX, PostgreSQL)
 
 ## Technical Skills
 
