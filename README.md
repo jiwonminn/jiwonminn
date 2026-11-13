@@ -12,12 +12,12 @@ Multi-agent emergency response platform that models wildfire-driven infrastructu
 **My role:** Built the React frontend, including the Leaflet map that renders the infrastructure cascade layers, and the OpenStreetMap data-fetch script behind it.
 `React` `Leaflet` `OpenStreetMap` · team stack: `Python` `FastAPI` `IBM Granite`
 
-### [Pumzi](https://github.com/jiwonminn/pumzi) · [Live demo](https://pumzi-care.vercel.app)
+### [Pumzi](https://github.com/jiwonminn/pumzi)
 Offline-first pediatric danger-sign assistant for frontline health workers. A caregiver's description of a sick child, in English or Swahili, is turned into structured signs, checked against the WHO IMCI chart, and passed to the next clinic through an encrypted QR care card. Runs local models (NLLB-200, Qwen2.5) on a laptop or a no-model phrase matcher in the browser.
 **My role:** Built the care handoff layer: the result screen, QR care passport with camera and PDF scanning, PIN-protected encounter records, a map of published Nyeri health facilities, and the caregiver SMS handoff, with tests.
 `TypeScript` `Next.js` `QR` `MapLibre` `Vitest`
 
-### [Rentin' ToRentino](https://github.com/arya-s101/RentinToRentino) · [Play it](https://www.rentintorentino.casa)
+### [Rentin' ToRentino](https://github.com/arya-s101/RentinToRentino)
 Browser game that walks first-time Toronto renters through spotting scams, comparing costs, reading a lease, and knowing their responsibilities, using City of Toronto, CMHC, and Census data.
 **My role:** Built the AI integration and managed the external APIs: Gemini-generated character dialogue (with game code validating the output) and ElevenLabs voice for the host, with a browser-voice fallback. Also came up with the Dominic ToRento host concept.
 `TypeScript` `Next.js` `Gemini API` `ElevenLabs`
