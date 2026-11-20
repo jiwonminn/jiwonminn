@@ -12,6 +12,11 @@ Multi-agent emergency response platform that models wildfire-driven infrastructu
 **My role:** Built the React frontend, including the Leaflet map that renders the infrastructure cascade layers, and the OpenStreetMap data-fetch script behind it.
 `React` `Leaflet` `OpenStreetMap` · team stack: `Python` `FastAPI` `IBM Granite`
 
+### [EV Charging Scheduler](https://github.com/jiwonminn/YECProgramming2026) · 1st Place, York Engineering Competition 2026 (Programming)
+Scheduler for EV chargers in a York campus parkade: decides which car charges where and when to minimize electricity cost, CO2 and unmet energy, without exceeding the building's power cap. Greedy scheduling with multiple priority rules (earliest-deadline-first, spare energy) plus a repair pass, with the best rule picked by score.
+**My role:** Built the reporting layer: schedule CSV output, the summary report (electricity cost, CO2, unmet energy, combined score), and the dashboard chart.
+`Python` `CSV` `HTML/SVG` · team of 4, qualified for the Ontario Engineering Competition
+
 ### [Pumzi](https://github.com/jiwonminn/pumzi)
 Offline-first pediatric danger-sign assistant for frontline health workers. A caregiver's description of a sick child, in English or Swahili, is turned into structured signs, checked against the WHO IMCI chart, and passed to the next clinic through an encrypted QR care card. Runs local models (NLLB-200, Qwen2.5) on a laptop or a no-model phrase matcher in the browser.
 **My role:** Built the care handoff layer: the result screen, QR care passport with camera and PDF scanning, PIN-protected encounter records, a map of published Nyeri health facilities, and the caregiver SMS handoff, with tests.
@@ -46,7 +51,8 @@ Battery management system for a 4S lithium-ion pack, built by a six-person team.
 
 ## Leadership & Achievements
 
+- **1st Place**, York Engineering Competition 2026 – Programming; qualified for the Ontario Engineering Competition (OEC)
 - **Undergraduate Finalist**, USAII Global AI Hackathon 2026
 - **Outreach Executive**, WiSE York University (2026–2027)
-- **AWS She Builds** program participant (2026, ongoing through November)
+- **AWS She Builds** program participant (2026)
 - **4th Place** of 16 teams, York Engineering Competition (2023)
