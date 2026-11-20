@@ -54,5 +54,5 @@ Battery management system for a 4S lithium-ion pack, built by a six-person team.
 - **1st Place**, York Engineering Competition 2026 – Programming; qualified for the Ontario Engineering Competition (OEC)
 - **Undergraduate Finalist**, USAII Global AI Hackathon 2026
 - **Outreach Executive**, WiSE York University (2026–2027)
-- **AWS She Builds** program participant (2026)
-- **4th Place** of 16 teams, York Engineering Competition (2023)
+- **AWS She Builds** program Mentee (2026)
+- **4th Place** of 16 teams, York Engineering Competition - Consulting (2023)
